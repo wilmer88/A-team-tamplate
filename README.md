@@ -22,3 +22,10 @@ files are the depedencies.
  //52-59
  is a functions that uses file system  to  write/ render the new manager  inside the index.html file.
  
+![screenshot](./assets/images/uno.png)
+![screenshot](./assets/images/dos.png)
+![screenshot](./assets/images/tres.png)
+![screenshot](./assets/images/cuatro.png)
+
+
+[this the link to the video](https://drive.google.com/file/d/1MPDk5yJzGW1qYmHzdwifFII0VJG_EFlK/view)
