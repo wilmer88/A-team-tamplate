@@ -50,7 +50,7 @@ function CreateManager() {
 }
 //function uses fs to writeiquiers respond   used to render the 
 function MoveFile(){
-    fs.writeFile("index.html", render(employee), (err) => {
+    fs.appendFile("index.html", render(employee), (err) => {
         if (err) throw err;
       });
       return;

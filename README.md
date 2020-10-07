@@ -10,3 +10,15 @@ The test folder contains all the tdd test for the employee class and extended cl
 There is one bug that is known is that the team tamplate only render one card at a time in the index html.
 
 //code talk
+some of node packages used in the projecet are the inquierer node package, filesystem node package. on the team javascript
+files are the depedencies. 
+ 
+ //line 16-38
+ are the prompt questions 
+
+ //line 40-49
+ is the '.then' promise where asigned the prompt answeres to a new manager class with new name, id, email, office/school
+ 
+ //52-59
+ is a functions that uses file system  to  write/ render the new manager  inside the index.html file.
+ 
